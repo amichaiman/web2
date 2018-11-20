@@ -1,0 +1,31 @@
+.form-control {
+    margin: 10px;
+}
+
+.header {
+    text-align: center;
+    color: #1195ed;
+}
+.btn-primary {
+    margin: 4px;
+}
+
+
+#back-button {
+    margin-top: 20px;
+}
+
+#game {
+    display: none;
+}
+
+#difficulty {
+    margin-top: 80px;
+}
+
+#lets_play {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+
